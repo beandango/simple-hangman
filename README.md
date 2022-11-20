@@ -3,4 +3,4 @@
 
 
 # How to run:
- Download the hangman.zip from releases, and run the exe. Dont remove it from that folder :)
+ Download the hangman_final.zip from releases, and run the exe. Dont remove it from that folder :)
